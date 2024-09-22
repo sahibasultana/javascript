@@ -1,0 +1,27 @@
+/*+.content{
+    color:white;
+    background-color: red;
+}
+.newclass{
+    background-color: blue;
+}
+    EVENTS...........
+    
+    div{
+        height:100px;
+        width:100px;
+        background-color: blue;
+        color:white;
+        border:1px solid black;
+
+
+    }
+*/
+.dark{
+    background-color:black;
+    color:white;
+}
+.light{
+    background-color: white;
+    color:black;
+}
